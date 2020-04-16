@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+Hello my name is William. 
+
+I am learning about GitHub
